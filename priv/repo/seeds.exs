@@ -9,4 +9,4 @@
 #
 # We recommend using the bang functions (`insert!`, `update!`
 # and so on) as they will fail if something goes wrong.
-Star.UserOperator.create_user("makingdevs", "A Star is born", "m4k1nd3vs", "ADMIN")
+Star.UserOperator.create_user("apprentice", "A Star is born", "4ppr3nt1c3", "ADMIN")
